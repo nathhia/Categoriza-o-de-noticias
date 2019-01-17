@@ -1,5 +1,0 @@
-1. Criar um vetor da primeira linha da tabela
-2. Normalizar as textos das 5 categorias riando 5 tabelas
-3. Fazer o NB
-4. A noticia de entrada é normalizada criando um novo vetor
-5. Esse novo vetor é comparado com os 5 outros vetores e afim de se escolher o mais parecido

@@ -1,8 +1,0 @@
-kmn
-
-mudar k (1, 3 ,5 e 10)
-mudar distancias (coss, mahanan, euclidiana, pearson) 
-
-3a va
-
-validação cruzada

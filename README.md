@@ -1,1 +1,0 @@
-Categorização de noticias
